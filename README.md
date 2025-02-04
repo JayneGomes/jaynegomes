@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 🥰
 
-<p>Sempre fui apaixonada por tecnologia e programação. <br>Meu primeiro contato foi aos 15 anos, quando fiz um curso de Jogos Digitais e me encantei. <br>Segui carreira no Marketing, mas essa paixão nunca foi embora, e agora estou finalmente fazendo a transição para o desenvolvimento Front-End.</p>
+<p>Sempre fui apaixonada por tecnologia e programação. <br><br>Meu primeiro contato foi aos 15 anos, quando fiz um curso de Jogos Digitais e me encantei. <br><br>Segui carreira no Marketing, mas essa paixão nunca foi embora, e agora estou finalmente fazendo a transição para o desenvolvimento Front-End.</p>
 
 
 ### Veja meus projetos web mais legais:
