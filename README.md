@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 🥰
 
+<p>Sempre fui apaixonada por tecnologia e programação. <br>Meu primeiro contato foi aos 15 anos, quando fiz um curso de Jogos Digitais e me encantei. <br>Segui carreira no Marketing, mas essa paixão nunca foi embora, e agora estou finalmente fazendo a transição para o desenvolvimento Front-End.</p>
+
  <div>
    <a href="https://github.com/jaynegomes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaynegomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
