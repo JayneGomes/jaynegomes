@@ -2,6 +2,12 @@
 
 <p>Sempre fui apaixonada por tecnologia e programação. <br>Meu primeiro contato foi aos 15 anos, quando fiz um curso de Jogos Digitais e me encantei. <br>Segui carreira no Marketing, mas essa paixão nunca foi embora, e agora estou finalmente fazendo a transição para o desenvolvimento Front-End.</p>
 
+
+### Veja meus projetos web mais legais:
+<a href="https://jaynegomes.github.io/projeto-one-piece" target="_blank">Projeto One Piece</a><br>
+<a href="https://jaynegomes.github.io/tabuada" target="_blank">Gerador de Tabuadas</a><br>
+<a href="https://jaynegomes.github.io/qrcode-generator" target="_blank">Gerador de QR Code</a>
+
  <div>
    <a href="https://github.com/jaynegomes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaynegomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
