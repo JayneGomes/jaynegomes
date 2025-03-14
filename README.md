@@ -4,9 +4,15 @@
 
 
 ### Veja meus projetos web mais legais:
-<a href="https://jaynegomes.github.io/projeto-one-piece" target="_blank">Projeto One Piece</a><br>
-<a href="https://jaynegomes.github.io/tabuada" target="_blank">Gerador de Tabuadas</a><br>
-<a href="https://jaynegomes.github.io/qrcode-generator" target="_blank">Gerador de QR Code</a>
+<ul>
+<li><a href="https://jaynegomes.github.io/url-shortener" target="_blank"> Encurtador e Gerador de UTM</a></li>
+<li><a href="https://jaynegomes.github.io/to-do-list" target="_blank">To Do List</a></li>
+<li><a href="https://jaynegomes.github.io/projeto-one-piece" target="_blank">Projeto One Piece</a></li>
+<li><a href="https://jaynegomes.github.io/qrcode-generator" target="_blank">Gerador de QR Code</a></li>
+<li><a href="https://jaynegomes.github.io/tabuada" target="_blank">Gerador de Tabuadas</a></li>
+</ul>
+<br>
+
 
  <div>
    <a href="https://github.com/jaynegomes">
